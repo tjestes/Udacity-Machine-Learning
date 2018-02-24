@@ -1,2 +1,3 @@
 # Udacity-Machine-Learning
-Udacity Machine Learning course and projects
+
+Code completed for the Udacity Machine learning coursework. This course runs through different algorithms and how to implement them in Python. 
