@@ -7,6 +7,6 @@ The course has several modules in it. Each notebook relates to a module from the
   2. SVM
   3. Decision Trees
   4. Choose Your Own Algorithm 
-    - the class puts forward three different algorithms and you test how each improves accuracy
+      - the class puts forward three different algorithms and you test how each improves accuracy
   5. Datasets and Questions 
-    - Researching the Enron dataset and performing small analysis on it and how it could affect your ML algorithms.
+      - Researching the Enron dataset and performing small analysis on it and how it could affect your ML algorithms.
